@@ -27,6 +27,18 @@ This Vue 3 component creates an interactive course catalog with category tabs an
 - **Additional Navigation**:
   - "View All" button for accessing the complete course catalog.
 
+## Sample Previews
+
+### Active Tab Preview
+![Active Tab Preview](https://github.com/AroshaRavishan/Common-card-with-active-tab-slider-cards-with-Show-more-Buttons-Vue3/blob/main/active%20tab%20preview.png)
+
+### Show Less Preview
+![Show Less Preview](https://github.com/AroshaRavishan/Common-card-with-active-tab-slider-cards-with-Show-more-Buttons-Vue3/blob/main/show%20less%20preview.png)
+
+### Show More Preview
+![Show More Preview](https://github.com/AroshaRavishan/Common-card-with-active-tab-slider-cards-with-Show-more-Buttons-Vue3/blob/main/show%20more%20preview.png)
+
+
 ## Component Structure
 
 1. **Category Slider**: Uses Splide.js for smooth horizontal scrolling of category tabs.
